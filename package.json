@@ -2,7 +2,7 @@
   "name": "quizlexa-delegated-auth",
   "version": "1.0.0",
   "main": "app.js",
-  "scripts": "scripts": {
+  "scripts": "scripts" : {
    "start": "node app.js"
     },
   "author": "Sean Wohlgemuth",
